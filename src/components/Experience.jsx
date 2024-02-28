@@ -150,7 +150,18 @@ export const Experience = () => {
 
       <ParisBis position={[0, 0, 0]} />
       <ItemBox position={[-20, 2.5, -119]} />
-      <Coin position={[-30, 2, -119]} />
+      <ItemBox position={[-40, 2.5, -119]} />
+      <Coin position={[-30, 2, -120]} />
+      <Coin position={[-30, 2, -110]} />
+      <Coin position={[-30, 2, -112]} />
+      <Coin position={[-30, 2, -114]} />
+      <Coin position={[-30, 2, -116]} />
+      <Coin position={[-30, 2, -118]} />
+      <Coin position={[-30, 2, -122]} />
+      <Coin position={[-30, 2, -124]} />
+      <Coin position={[-30, 2, -126]} />
+      <Coin position={[-30, 2, -128]} />
+      <Coin position={[-30, 2, -130]} />
 
       <Ground position={[0, 0, 0]} />
       <Environment resolution={256} preset="lobby" />
